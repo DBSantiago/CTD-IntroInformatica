@@ -1,0 +1,3 @@
+a) Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005.
+b) GitHub pertenece a Microsoft
+c) También podemos trabajar con GitHub desde la web
