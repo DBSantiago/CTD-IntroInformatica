@@ -1,0 +1,2 @@
+Ejercicio en parejas para aprender sobre resolución de conflictos en Git.
+Link al repo: https://github.com/melicantamutto/ejercicio_intro_clase_5
